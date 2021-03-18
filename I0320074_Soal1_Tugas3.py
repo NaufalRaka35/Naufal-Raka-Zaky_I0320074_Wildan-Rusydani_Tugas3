@@ -7,7 +7,7 @@ print("List indeks nomor 4,6, dan 7 adalah",teman[4],",",teman[6],", dan",teman[
 # Mengganti nama teman di list 3,5, dan 9
 teman[3] = 'Aji'
 teman[5] = 'Issa'
-teman[9] = 'Rio'
+teman[9] = 'Yea'
 
 # Menambahkan 2 nama teman
 teman.append('Sony')
